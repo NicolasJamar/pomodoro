@@ -3,8 +3,7 @@ export function App() {
     return (
         <>
         <h1>Hello {name}!</h1>
-        <Timer className={"timer"} />
-        
+        <Timer className={"timer"} />       
     
     );
 }

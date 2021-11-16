@@ -6,7 +6,8 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "lint": "npx eslint --fix --cache src"
   },
   "keywords": [],
   "author": "",

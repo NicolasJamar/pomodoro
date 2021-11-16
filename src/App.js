@@ -5,6 +5,5 @@ export function App() {
         <h1>Hello {name}!</h1>
         <Timer className={"timer"} />       
     
-
     );
 }
